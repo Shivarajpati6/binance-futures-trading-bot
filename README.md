@@ -42,7 +42,7 @@ trading_bot/
 
 Clone the repository:
 
-git clone https://github.com/yourusername/trading-bot.git
+git clone https://github.com/shivarajpatil6/trading-bot.git
 
 Install dependencies:
 
